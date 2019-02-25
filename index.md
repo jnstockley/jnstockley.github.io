@@ -1,8 +1,6 @@
 ## Welcome to jnstockley.github.io
 
-You can use the [editor on GitHub](https://github.com/jnstockley/jnstockley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Jack Stockley. I have a love for computers and software. My first major project I have worked on is my [Address Book java program.](https://github.com/jnstockley/AddressBook) I also then made a second part of that program and impleted a RESTful API. I have called this program the [Address Book Rest](https://github.com/jnstockley/AddressBookREST), very creative I know. To learn more about these program scroll down. I am currently a high school student but am going to be starting my freshmen year at the Unviersity of Iowa as a Computer Science Major.
 
 ### Markdown
 

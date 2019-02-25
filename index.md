@@ -4,7 +4,7 @@ My name is Jack Stockley. I have a love for computers and software. My first maj
 
 ### Education
 
-Currently I am a high school student in the suburbs of Chiago Illinois. I am a senior at my current high school. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Sotware Engingeer.
+Currently I am a high school student in the suburbs of Chiago Illinois. I am currently a Senior. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Sotware Engingeer.
 
 ```markdown
 Syntax highlighted code block

@@ -2,9 +2,9 @@
 
 My name is Jack Stockley. I have a love for computers and software. My first major project I have worked on is my [Address Book java program.](https://github.com/jnstockley/AddressBook) I also then made a second part of that program and impleted a RESTful API. I have called this program the [Address Book Rest](https://github.com/jnstockley/AddressBookREST), very creative I know. To learn more about these program scroll down. I am currently a high school student but am going to be starting my freshmen year at the Unviersity of Iowa as a Computer Science Major.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently I am a high school student in the suburbs of Chiago Illinois. I am a senior at my current high school. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Sotware Engingeer.
 
 ```markdown
 Syntax highlighted code block

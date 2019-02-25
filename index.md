@@ -6,6 +6,9 @@ My name is Jack Stockley. I have a love for computers and software. My first maj
 
 Currently I am a high school student in the suburbs of Chiago Illinois. I am currently a Senior. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Sotware Engingeer.
 
+### Extracurricular  Activites
+I was apart of the Cross Country team at my high school during my Sophmore and Junior year. I decided not to join my Senior year because I didn't like running but I should have join becuase I loved being apart of a team. I averaged about 10-15 hours a week with Cross Country. I also have a part-time job at a local grocery store as a Cashier. I started off as a Bagger and then got pormoted after 3 months of working there. I average about 15-20 hours per week at my job. 
+
 
 ### Languages I Know
 - HTML (I know not really a programming laguage)

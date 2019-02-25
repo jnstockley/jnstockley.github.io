@@ -6,6 +6,20 @@ My name is Jack Stockley. I have a love for computers and software. My first maj
 
 Currently I am a high school student in the suburbs of Chiago Illinois. I am currently a Senior. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Sotware Engingeer.
 
+
+### Languages I Know
+- HTML (I know not really a programming laguage)
+- CSS (I know not really a programming laguage)
+- JavaScript
+- Java
+- Starting to dabble in Swift
+
+### Laungues I plan On Learning
+- Python
+- PHP
+- C#
+- C++
+
 ```markdown
 Syntax highlighted code block
 

@@ -102,3 +102,24 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
       6. For get by id or delete add the id number at the end of the url
 
     Any other questions tweet me on twitter @jackstockley_ and Ill add it here
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```

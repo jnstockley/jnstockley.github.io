@@ -26,7 +26,6 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 ## Major Programs
    ### Address Book
     Address Book CLI Version 1.0.2!
-
     How to use this program:
     1. Run the program in command prompt or a termianl depending on which OS you are on
     2. When prompted type in IP of your SQL server

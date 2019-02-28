@@ -23,6 +23,10 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 - C#
 - C++
 
+# Major Programs
+
+ A list of my major Programs that I have worked on so far in my Computer Science Career
+ 
    ## Address Book
    
    A simple Java and MySQL program that uses CRUD to play with addresses, people, and occupations
@@ -131,4 +135,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-final4
+final5

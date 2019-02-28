@@ -25,7 +25,7 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 
 ## Major Programs
 
-   ### Address Book
+   ## Address Book
    
    A simple Java and MySQL program that uses CRUD to play with addresses, people, and occupations
    
@@ -79,7 +79,7 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
    Find a bug please be sure to report it under the issues tab!
    ```
 
-   ### Address Book REST
+   ## Address Book REST
    
    A RESTful API for the Address Book Java Program
    
@@ -133,4 +133,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-final
+final2

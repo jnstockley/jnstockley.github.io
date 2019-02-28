@@ -27,7 +27,7 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 
  A list of my major Programs that I have worked on so far in my Computer Science Career
  
-### Address Book
+###    Address Book
    
    A simple Java and MySQL program that uses CRUD to play with addresses, people, and occupations
    
@@ -81,7 +81,7 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
    Find a bug please be sure to report it under the issues tab!
    ```
 
-### Address Book REST
+###    Address Book REST
    
    A RESTful API for the Address Book Java Program
    
@@ -112,27 +112,4 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
       6. For get by id or delete add the id number at the end of the url
 
    Any other questions tweet me on twitter @jackstockley_ and Ill add it here
-   ```
-   
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-final6
+  ```

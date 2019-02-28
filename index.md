@@ -24,7 +24,9 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 - C++
 
 ## Major Programs
+
    ### Address Book
+   
    ```markdown
    Address Book CLI Version 1.0.2!
     How to use this program:
@@ -73,10 +75,10 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
    Any other questions tweet me on twitter @jackstockley_ and Ill add it here
 
    Find a bug please be sure to report it under the issues tab!
-   Updated!!
    ```
 
    ### Address Book REST
+   
    ```markdown
    Extremely Overdue Update!!!!! I lot has happened since I last posted an update! I had mys server up for a bit but currently it is   down due to a corrupted kernel on my sevrer! I am trying right now to recover the data on the server to save reinstall time! Wish me luck. I am also going to be working on rewritng this program to add new features to it once I have finished the CLI version! Thanks!
 
@@ -127,4 +129,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-updated!!2
+final

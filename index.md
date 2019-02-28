@@ -23,7 +23,7 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 - C#
 - C++
 
-## Major Programs
+# Major Programs
 
    ## Address Book
    
@@ -133,4 +133,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-final2
+final3

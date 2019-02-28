@@ -1,13 +1,13 @@
 ## Welcome to jnstockley.github.io
 
-My name is Jack Stockley. I have a love for computers and software. My first major project I have worked on is my [Address Book java program.](https://github.com/jnstockley/AddressBook) I also then made a second part of that program and impleted a RESTful API. I have called this program the [Address Book Rest](https://github.com/jnstockley/AddressBookREST), very creative I know. To learn more about these program scroll down. I am currently a high school student but am going to be starting my freshmen year at the Unviersity of Iowa as a Computer Science Major.
+My name is Jack Stockley. I have a love for computers and software. My first major project I have worked on is my [Address Book Java Program.](https://github.com/jnstockley/AddressBook) I also then made a second part of that program and impleted a RESTful API. I have called this program the [Address Book Rest](https://github.com/jnstockley/AddressBookREST), very creative I know. To learn more about these program scroll down. I am currently a high school student but am going to be starting my freshmen year at the Unviersity of Iowa as a Computer Science Major.
 
 ### Education
 
 Currently I am a high school student in the suburbs of Chiago Illinois. I am currently a Senior. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Sotware Engingeer.
 
 ### Extracurricular  Activites
-I was apart of the Cross Country team at my high school during my Sophmore and Junior year. I decided not to join my Senior year because I didn't like running but I should have join becuase I loved being apart of a team. I averaged about 10-15 hours a week with Cross Country. I also have a part-time job at a local grocery store as a Cashier. I started off as a Bagger and then got pormoted after 3 months of working there. I average about 15-20 hours per week at my job. 
+I was apart of the Cross Country team at my high school during my Sophmore and Junior year. I decided not to join my Senior year because I didn't like running but I should have join becuase I loved being apart of a team. I averaged about 10-15 hours a week with Cross Country. I also have a part-time job at a local grocery store as a Cashier. I started off as a Bagger and then got pormoted after 3 months of working there. I average about 15-20 hours per week at my job. I have also started a new role for the track team. I am curently the manager/ assitant coach. My dudites are to record times and add them to a spreadsheet so that people on the team can see how they progress.
 
 
 ### Languages I Know

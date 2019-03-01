@@ -32,6 +32,7 @@ A list of my major Programs that I have worked on so far in my Computer Science 
   A simple Java and MySQL program that uses CRUD to play with addresses, people, and occupations
    
    ```markdown
+   Address Book CLI Version 1.0.2!
    How to use this program:
    1. Run the program in command prompt or a terminal depending on which OS you are on
    2. When prompted type in IP of your SQL server

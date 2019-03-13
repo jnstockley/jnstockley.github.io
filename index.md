@@ -4,7 +4,7 @@ My name is Jack Stockley. I have a love for computers and software. The first ma
 
 ### Education
 
-Currently, I am a high school student in the suburbs of Chicago Illinois. I am currently a Senior. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa, I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Software Engineer.
+Currently, I am a high school student in the suburbs of Chicago, Illinois. I am currently a Senior. I have also been accepted to and am going to be enrolled at the University of Iowa this fall. At the University of Iowa, I will be studying [Computer Science.](https://cs.uiowa.edu/) After my time I at the University of Iowa I plan on being a Computer Scientist or a Software Engineer.
 
 ### Extracurricular  Activites
 I was apart of the Cross Country team at my high school during my Sophmore and Junior year. I decided not to join my Senior year because I didn't like running but I should have joined because I loved being apart of a team. I averaged about 10-15 hours a week with Cross Country. I also have a part-time job at a local grocery store as a Cashier. I started off as a Bagger and then got promoted after 3 months of working there. I average about 15-20 hours per week at my job. I have also started a new role for the track team. I am currently the manager/ assistant coach. My duties are to record times and add them to a spreadsheet so that people on the team can see how they progress.

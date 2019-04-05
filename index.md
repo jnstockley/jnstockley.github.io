@@ -28,18 +28,17 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 - Swift
 
 # Upcoming Projects
-I am currently working on a UI for my previous project written in java called Address Book. I am calling this project Address Book UI. This project will be a website that has a modern and responisve UI for mobile and desktop written in javascript. I am using AngularJS to help me accomplish this project!
+I am currently working on a UI for my previous project written in java called Address Book CLI. I am calling this project Address Book UI. This project will be a website that has a modern and responisve UI for mobile and desktop written in javascript. I am using AngularJS to help me accomplish this project!
 
 # Major Programs
 
 A list of my major Programs that I have worked on so far in my Computer Science Career
 
-### Address Book
+### Address Book CLI Version 1.0.2
    
   A simple Java and MySQL program that uses CRUD to play with addresses, people, and occupations
    
    ```markdown
-   Address Book CLI Version 1.0.2!
    How to use this program:
    1. Run the program in command prompt or a terminal depending on which OS you are on
    2. When prompted type in IP of your SQL server

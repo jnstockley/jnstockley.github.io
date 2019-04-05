@@ -16,12 +16,19 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 - JavaScript
 - Java
 
+### Languages/Frameworks I am learning
+- Angular JS
+- TypeScript
+
 ### Laungues I plan On Learning
 - Python
 - PHP
 - C#
 - C++
 - Swift
+
+# Upcoming Projects
+I am currently working on a UI for my previous project written in java called Address Book. I am calling this project Address Book UI. This project will be a website that has a modern and responisve UI for mobile and desktop written in javascript. I am using AngularJS to help me accomplish this project!
 
 # Major Programs
 
@@ -113,3 +120,5 @@ All Methods:
 
 Any other questions tweet me on twitter @jackstockley_ and Ill add it here
   ```
+  
+

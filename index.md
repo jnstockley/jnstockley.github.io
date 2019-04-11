@@ -1,4 +1,4 @@
-# Welcome to jnstockley.github.io
+# Welcome to jackstockley.live
 
 My name is Jack Stockley. I have a love for computers and software. The first major project I have worked on is my [Address Book Java Program.](https://github.com/jnstockley/AddressBook) I also then made the second part of that program and implemented a RESTful API. I have called this program the [Address Book Rest](https://github.com/jnstockley/AddressBookREST), very creative I know. To learn more about these program scroll down. I am currently a high school student but am going to be starting my freshmen year at the University of Iowa as a Computer Science Major.
 

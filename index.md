@@ -1,4 +1,4 @@
-# Welcome to jackstockley.live
+# Welcome to jnstockley.github.io
 
 My name is Jack Stockley. I have a love for computers and software. The first major project I have worked on is my [Address Book CLI.](https://github.com/jnstockley/AddressBook) I also then made the second part of that program and implemented a RESTful API. I have called this program the [Address Book Rest](https://github.com/jnstockley/AddressBookREST), very creative I know. I am also currently working on a third part to this collection of projects. I am currently working on making a GUI that I am calling [Address Book UI.](https://github.com/jnstockley/AddressBookUI/) To learn more about these program scroll down. I am currently a high school student but am going to be starting my freshmen year at the University of Iowa as a Computer Science Major.
 
@@ -15,13 +15,11 @@ I was apart of the Cross Country team at my high school during my Sophmore and J
 - CSS (I know not really a programming language)
 - JavaScript
 - Java
-
-### Languages/Frameworks I am learning
+- Python
 - Angular JS
 - TypeScript
 
 ### Laungues I plan On Learning
-- Python
 - PHP
 - C#
 - C++

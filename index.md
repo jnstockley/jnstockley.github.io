@@ -16,10 +16,11 @@ Jun 2017 - Jan 2020 2 years 8 months
 Bachelor of Science - BS, Computer Science
 Studying towards a Bachelor of Science in Computer Science with a Certificate in Data Security or Big Data.
 
-Courses Taken
-Computer Science I: Fundamentals Discrete Structures
-Calculus I
-Calculus II
+Courses Taken 
+Computer Science I: Fundamentals
+Discrete Structures 
+Calculus I 
+Calculus II 
 
 2019-2023
 

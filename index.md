@@ -4,6 +4,12 @@
 # Who is Jack Stockley
 Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a certificate in either Data Security or Big Data. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
 
+# Experience
+
+  ## Cashier - Jewel-Osco
+I learned many valuable skills while working at Jewel-Osco that will help me in my future career. Among them, I learned how to communicate with people, work effectively in a team environment, deal with adversity and interact with people in the real world. I started as a bagger and worked my way up to cashier. I was considered for a position at the service desk but because I was heading off to college the position went to someone else.
+Jun 2017 - Jan 2020 2 years 8 months
+
 
 You can use the [editor on GitHub](https://github.com/jnstockley/jnstockley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

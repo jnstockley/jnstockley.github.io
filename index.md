@@ -16,46 +16,29 @@ Jun 2017 - Jan 2020 2 years 8 months
 Bachelor of Science - BS, Computer Science
 Studying towards a Bachelor of Science in Computer Science with a Certificate in Data Security or Big Data.
 
-Courses Taken 
-Computer Science I: Fundamentals
-Discrete Structures 
-Calculus I 
-Calculus II 
+Courses Taken: 
+  - Computer Science I: Fundamentals
+  - Discrete Structures 
+  - Calculus I 
+  - Calculus II 
 
 2019-2023
 
-You can use the [editor on GitHub](https://github.com/jnstockley/jnstockley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Plainfield North High School
+High School Diploma
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Throughout my time at Plainfield North High School I gained many valuable skills. The most important skill I learned was how to multi-task. I had to effectively divide my time between studies, sports and a job. I had the opportunity to take three years of Computer Science. In order to take these classes I enrolled in summer school for 3 years.
 
-### Markdown
+Junior Year Computer Science Project
+Built a web-based address book. Designed a MySQL database that resided on a Raspberry Pi accessed via a RESTful web service written in Java using JAX-RS that supported full CRUD. I was able to remotely accessed this from school to demonstrate. My teacher was so impressed he asked if he could use the source code for another project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Senior Year Computer Science Project
+Enhanced earlier project by adding AngularJS UI. All technologies were self learned.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jnstockley/jnstockley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Courses Taken:
+  - Intro to Programming
+  - Intro to Java Honors
+  - AP Computer Science A
+  - AP Computer Science Principles
+  
+GPA: 4.96/5.00

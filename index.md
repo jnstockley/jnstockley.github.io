@@ -51,3 +51,5 @@ GPA: 4.96/5.00
   - Tomcat
   - RESTful WebService
   - Python
+
+<img src="Profile Picture.jpg" alt="hi" class="inline"/>

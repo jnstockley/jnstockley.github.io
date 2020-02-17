@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
-
-
 # Who is Jack Stockley
 Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a certificate in either Data Security or Big Data. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
 

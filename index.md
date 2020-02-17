@@ -42,3 +42,15 @@ Courses Taken:
   - AP Computer Science Principles
   
 GPA: 4.96/5.00
+
+# Skills
+  - Java
+  - JavaScript
+  - AngularJS
+  - Windows
+  - Linux
+  - MySQL
+  - JAX-RS
+  - Tomcat
+  - RESTful WebService
+  - Python

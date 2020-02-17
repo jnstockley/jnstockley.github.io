@@ -6,7 +6,7 @@ Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liber
 
 # Experience
 
-  ## Cashier - Jewel-Osco
+  ## Cashier
 I learned many valuable skills while working at Jewel-Osco that will help me in my future career. Among them, I learned how to communicate with people, work effectively in a team environment, deal with adversity and interact with people in the real world. I started as a bagger and worked my way up to cashier. I was considered for a position at the service desk but because I was heading off to college the position went to someone else.
 Jun 2017 - Jan 2020 2 years 8 months
 

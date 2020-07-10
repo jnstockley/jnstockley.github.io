@@ -1,4 +1,4 @@
-# Who is Jack Stockley
+# About Jack Stockley
 Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a certificate in either Data Security or Big Data. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
 
 # Experience
@@ -24,6 +24,8 @@ Courses Taken:
 ## Plainfield North High School
 High School Diploma
 
+Activities and societies: Cross Country, Winter Running Club, Track Manager, Computer Science Club
+
 Throughout my time at Plainfield North High School I gained many valuable skills. The most important skill I learned was how to multi-task. I had to effectively divide my time between studies, sports and a job. I had the opportunity to take three years of Computer Science. In order to take these classes I enrolled in summer school for 3 years.
 
 Junior Year Computer Science Project
@@ -43,11 +45,13 @@ GPA: 4.96/5.00
 # Skills
   - Java
   - JavaScript
+  - Python
   - AngularJS
   - Windows
   - Linux
+  - MacOS
   - MySQL
   - JAX-RS
   - Tomcat
   - RESTful WebService
-  - Python
+  - Swagger

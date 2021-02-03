@@ -8,7 +8,7 @@ I learned many valuable skills while working at Jewel-Osco that will help me in 
 
 Jun 2017 - Jan 2020 2 years 8 months
 
-# Education
+# [Education](education.md)
 ## University of Iowa
 Bachelor of Science - BS, Computer Science
 Studying towards a Bachelor of Science in Computer Science with a Certificate in Data Security or Big Data.

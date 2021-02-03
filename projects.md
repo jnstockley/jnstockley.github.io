@@ -1,4 +1,4 @@
-## Address Book
+# Address Book
 This program is broken down into 3 parts on github. The first part is the backend.
 ## [AddressBook](https://jstockley.com/AddressBook)
    The backend for the Address Book REST API. Helps interface between java code and SQL database! It helps the CLI and REST interface connect to the MySQL database, where the address, ocupations, and people are stored. This also helps with AES Encryption before being sent to the database

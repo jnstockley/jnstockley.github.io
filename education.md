@@ -1,4 +1,4 @@
-## University of Iowa
+## [University of Iowa](https://uiowa.edu/)
 Bachelor of Science - BS, Computer Science
 Studying towards a Bachelor of Science in Computer Science with a Certificate in Data Security or Big Data.
 
@@ -14,7 +14,7 @@ Current GPA: 2.97
 
 2019-2023
 
-## Plainfield North High School
+## [Plainfield North High School](https://pnhs.psd202.org/)
 High School Diploma
 
 Activities and societies: Cross Country, Winter Running Club, Track Manager, Computer Science Club

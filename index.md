@@ -25,6 +25,10 @@ Current GPA: 2.97
 
 2019-2023
 
+# [Projects](projects.md)
+## [AddressBook REST](https://jstockley.com/AddressBookREST)
+   An Address Book that is stored on a MySQL server and takes full advantage of CRUD! It can be accessed by using a RESTful interface! This RESTful service was swagger documention and can perform CRUD on the objects in the database. Also implements bundles to allow for translation of static text.
+
 # Skills
   - Java
   - JavaScript

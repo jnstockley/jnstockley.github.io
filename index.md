@@ -3,13 +3,13 @@ Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liber
 
 # [Experience](experience.md)
 
-## Student Analyst - ITS Help Desk at The University of Iowa
+## [Student Analyst - ITS Help Desk at The University of Iowa](https://its.uiowa.edu/)
 I learned many valuables skills that will be able to help me in my future career. While at the ITS Help Desk, I continued my growth with communication with people in person, as well as over several communication methods like phone, email, and live chat. This job also helped me gain skills in troubleshooting issues, which will be a valuable skill in the workplace. During my short time here I have got a promotion from working only with phone support, to also helping with email and live chat.
 
 Aug 31, 2020 - Present
 
 # [Education](education.md)
-## University of Iowa
+## [University of Iowa](https://uiowa.edu/)
 Bachelor of Science - BS, Computer Science
 Studying towards a Bachelor of Science in Computer Science with a Certificate in Data Security or Big Data.
 

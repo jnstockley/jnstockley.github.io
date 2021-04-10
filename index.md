@@ -27,7 +27,7 @@ Current GPA: 2.97
 
 # [Projects](projects.md)
 ## [Vaccine Checker](https://github.com/jnstockley/Vaccine-Checker)
-   This is a Java program that uses Selenium WebDrive to scrap [https://vaccinespotter.org](https://vaccinespotter.org) to see if a COVID-19 Vaccine Appointment is available based on data the user enters into a JSON config file. If the program finds a suitable appointment it will send the user an email, with a personalized link to see if the vaccine is available and then to book it.
+   This is a Java program that uses Selenium WebDriver to scrape [https://vaccinespotter.org](https://vaccinespotter.org) to see if a COVID-19 Vaccine Appointment is available based on data the user enters into a JSON config file. If the program finds a suitable appointment it will send the user an email, with a personalized link to see if the vaccine is available and then to book it.
 
 # Skills
   - Java

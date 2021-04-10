@@ -26,8 +26,8 @@ Current GPA: 2.97
 2019-2023
 
 # [Projects](projects.md)
-## [AddressBook REST](https://jstockley.com/AddressBookREST)
-   An Address Book that is stored on a MySQL server and takes full advantage of CRUD! It can be accessed by using a RESTful interface! This RESTful service was swagger documentation and can perform CRUD on the objects in the database. Also implements bundles to allow for the translation of static text.
+## [Vaccine-Checker](https://github.com/jnstockley/Vaccine-Checker)
+   This is a Java program that uses Selenium WebDrive to scrap https://vaccinespotter.org to see if a COVID-19 Vaccine Appointment is available based on data the user enters into a JSON config file. If the program finds a suitable appointment it will send the user an email, with a personalized link to see if the vaccine is available and then to book it.
 
 # Skills
   - Java

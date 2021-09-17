@@ -1,16 +1,13 @@
 ## [University of Iowa](https://uiowa.edu/)
-Bachelor of Science - BS, Computer Science
-Studying towards a Bachelor of Science in Computer Science with a Certificate in Data Security or Big Data.
+Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
 
 Courses Taken:
   - Introduction to Linear Algebra
-  - Computer Science II: Data Structures
-  - Computer Science I: Fundamentals
-  - Discrete Structures 
-  - Calculus I 
-  - Calculus II
-  
-Current GPA: 2.97
+  - Computer Science I: Fundamentals 
+  - Discrete Structures
+  - Calculus I & II
+  - Computer Organization
+  - Object-Oriented Software Development
 
 2019-2023
 

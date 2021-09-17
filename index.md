@@ -1,27 +1,24 @@
 # [About Jack Stockley](https://www.linkedin.com/in/jack-stockley/)
-Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a certificate in either Data Security or Big Data. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
+Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a specialization in Data Security. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
 
 # [Experience](experience.md)
 
-## [Student Analyst - ITS Help Desk at The University of Iowa](https://its.uiowa.edu/)
-I learned many valuables skills that will be able to help me in my future career. While at the ITS Help Desk, I continued my growth with communication with people in person, as well as over several communication methods like phone, email, and live chat. This job also helped me gain skills in troubleshooting issues, which will be a valuable skill in the workplace. During my short time here I have got a promotion from working only with phone support, to also helping with email and live chat.
+## [Student Backup - ITS Help Desk at The University of Iowa](https://its.uiowa.edu/)
+Throughout my time at the ITS Help Desk, I have learned and grown drastically. I started at as a Student Analyst and have been promoted several times up to Student Backup. I have learned how to work with our customers, over the phone, and in person. I have also gained the ability to work and interact with my co-workers in person and remotely. While at the ITS Help Desk I have been able to learn new tools, as well as new skills.
 
 Aug 31, 2020 - Present
 
 # [Education](education.md)
 ## [University of Iowa](https://uiowa.edu/)
-Bachelor of Science - BS, Computer Science
-Studying towards a Bachelor of Science in Computer Science with a Certificate in Data Security or Big Data.
+Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
 
 Courses Taken:
   - Introduction to Linear Algebra
-  - Computer Science II: Data Structures
-  - Computer Science I: Fundamentals
-  - Discrete Structures 
-  - Calculus I 
-  - Calculus II
-  
-Current GPA: 2.97
+  - Computer Science I: Fundamentals 
+  - Discrete Structures
+  - Calculus I & II
+  - Computer Organization
+  - Object-Oriented Software Development
 
 2019-2023
 
@@ -34,15 +31,14 @@ Current GPA: 2.97
 
 # Skills
   - Java
-  - JavaScript
   - Python
+  - SQL
+  - JAX-RS
+  - Tomcat
+  - RESTful WebService
   - AngularJS
   - Windows
   - Linux
   - MacOS
-  - MySQL
-  - JAX-RS
-  - Tomcat
-  - RESTful WebService
   - Swagger
   - C

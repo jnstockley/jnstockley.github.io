@@ -6,7 +6,7 @@ Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liber
 ## [Student Backup - ITS Help Desk at The University of Iowa](https://its.uiowa.edu/)
 Throughout my time at the ITS Help Desk, I have learned and grown drastically. I started at as a Student Analyst and have been promoted several times up to Student Backup. I have learned how to work with our customers, over the phone, and in person. I have also gained the ability to work and interact with my co-workers in person and remotely. While at the ITS Help Desk I have been able to learn new tools, as well as new skills.
 
-Aug 31, 2020 - Present
+Aug 2020 - Present
 
 # [Education](education.md)
 ## [University of Iowa](https://uiowa.edu/)

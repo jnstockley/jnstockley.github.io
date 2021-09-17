@@ -1,7 +1,7 @@
-## [Student Analyst - ITS Help Desk at The University of Iowa](https://its.uiowa.edu/)
-I learned many valuables skills that will be able to help me in my future career. While at the ITS Help Desk, I continued my growth with communication with people in person, as well as over several communication methods like phone, email, and live chat. This job also helped me gain skills in troubleshooting issues, which will be a valuable skill in the workplace. During my short time here I have got a promotion from working only with phone support, to also helping with email and live chat.
+## [Student Backup - ITS Help Desk at The University of Iowa](https://its.uiowa.edu/)
+Throughout my time at the ITS Help Desk, I have learned and grown drastically. I started at as a Student Analyst and have been promoted several times up to Student Backup. I have learned how to work with our customers, over the phone, and in person. I have also gained the ability to work and interact with my co-workers in person and remotely. While at the ITS Help Desk I have been able to learn new tools, as well as new skills.
 
-Aug 31, 2020 - Present
+Aug 2020 - Present
 
 ## [Cashier - Jewel-Osco](https://www.jewelosco.com/)
 I learned many valuable skills while working at Jewel-Osco that will help me in my future career. Among them, I learned how to communicate with people, work effectively in a team environment, deal with adversity and interact with people in the real world. I started as a bagger and worked my way up to cashier. I was considered for a position at the service desk but because I was heading off to college the position went to someone else.

@@ -1,5 +1,5 @@
 # [Jack Stockley](https://www.linkedin.com/in/jack-stockley/)
-Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a specialization in Data Security. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
+Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a specialization in Data Security. I am a young, eager, and motivated student ready to tackle any challenges that will come my way! Currently looking for a 2022 Summer Internship!
 
 # [Experience](experience.md)
 

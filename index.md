@@ -12,16 +12,27 @@ Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liber
 Aug 2020 - Present
 
 # [Education](education.md)
-## [University of Iowa](https://uiowa.edu/)
-Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
+## [University of Iowa](https://cs.uiowa.edu/)
+Grade: Junior
 
-Courses Taken:
-  * Introduction to Linear Algebra
-  * Computer Science I: Fundamentals 
-  * Discrete Structures
-  * Calculus I & II
-  * Computer Organization
-  * Object-Oriented Software Development
+Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
+    
+   Courses Taken:
+   * Computer Science I: Fundamentals
+   * Computer Science II: Data Structures
+   * Discrete Structure
+   * Computer Organization
+   * Object-Oriented Software Development
+   * Cryptography Seminar
+   * Algorithms
+   * Programming Language Concepts
+   * Intro to Networks and their Applications (Spring 2022)
+   * Theory of Computation (Spring 2022)
+   * Topics in Computer Science I (Spring 2022)
+   * Probability and Statistics
+   * Calculus I
+   * Calculus II
+   * Linear Algebra
 
 2019-2023
 

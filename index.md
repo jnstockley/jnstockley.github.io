@@ -1,19 +1,16 @@
 # [Jack Stockley](https://www.linkedin.com/in/jack-stockley/)
-Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science with a specialization in Data Security. I am a young, eager, and motivated student ready to tackle any challenges that will come my way! Currently looking for a 2022 Summer Internship!
+Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
 
 # [Experience](experience.md)
 
-## [Team Lead - University of Iowa ITS Help Desk](https://its.uiowa.edu/)
-  * Training new employees
-  * Assisting management with scheduling and reviews
-  * Monitoring metrics of employees
-  * Planning for special events and peak volume periods
+## [DB2Tools Intern - Broadcom](https://www.broadcom.com/)
+  Converted a Java framework to Python which runs tests on Mainframe systems to test DB2 Tools products. Tests are run using Jenkins continuous integration software. Worked in a team setting in an Agile environment.
 
-Aug 2020 - Present
+May 2022 - Aug 2022
 
 # [Education](education.md)
 ## [University of Iowa](https://cs.uiowa.edu/)
-Grade: Junior
+Grade: Senior
 
 Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
     
@@ -26,9 +23,9 @@ Studying towards a Bachelor of Science in Computer Science with a specialization
    * Cryptography Seminar
    * Algorithms
    * Programming Language Concepts
-   * Intro to Networks and their Applications (Spring 2022)
-   * Theory of Computation (Spring 2022)
-   * Topics in Computer Science I (Spring 2022)
+   * Intro to Networks and their Applications
+   * Theory of Computation
+   * Topics in Computer Science I
    * Probability and Statistics
    * Calculus I
    * Calculus II

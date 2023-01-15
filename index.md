@@ -12,24 +12,28 @@ May 2022 - Aug 2022
 ## [University of Iowa](https://cs.uiowa.edu/)
 Grade: Senior
 
-Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
+Studying towards a Bachelor of Science in Computer Science.
     
    Courses Taken:
    * Computer Science I: Fundamentals
+   * Engineer Math I Single Variable Calculus
+   * Discrete Structures
+   * Calculus II
    * Computer Science II: Data Structures
-   * Discrete Structure
-   * Computer Organization
+   * Introduction to Linear Algebra
    * Object-Oriented Software Development
-   * Cryptography Seminar
+   * Computer Organization
+   * Probability & Stats for Engr & Phys Sci
    * Algorithms
    * Programming Language Concepts
-   * Intro to Networks and their Applications
+   * Topics in Computer Science I - Cloud Application Programming
+   * Intro to Networks and Their Applications
    * Theory of Computation
-   * Topics in Computer Science I
-   * Probability and Statistics
-   * Calculus I
-   * Calculus II
-   * Linear Algebra
+   * Fundamentals of Software Engineering
+   * Software Engineering Languages and Tools
+   * Database Systems
+   * Software Engineering Project (Spring 2023)
+   * Operating Systems (Spring 2023)
 
 2019-2023
 
@@ -41,15 +45,19 @@ Studying towards a Bachelor of Science in Computer Science with a specialization
    This is a Java program that uses Selenium WebDriver to scrape [https://vaccinespotter.org](https://vaccinespotter.org) to see if a COVID-19 Vaccine Appointment is available based on data the user enters into a JSON config file. If the program finds a suitable appointment it will send the user an email, with a personalized link to see if the vaccine is still available and then to book it.
 
 # Skills
-  - Java
+  - Agile Software Development
   - Python
+  - Java
   - SQL
+  - Databases
+  - Jenkins
+  - Git
+  - Object-Oriented Programming
+  - RESTful WebServices
   - JAX-RS
-  - Tomcat
-  - RESTful WebService
-  - AngularJS
-  - Windows
-  - Linux
-  - MacOS
-  - Swagger
+  - HTML
   - C
+  - Assembly
+  - Haskell
+  - Ruby
+  - Ruby on Rails

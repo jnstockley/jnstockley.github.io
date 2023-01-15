@@ -38,10 +38,10 @@ Studying towards a Bachelor of Science in Computer Science.
 2019-2023
 
 # [Projects](projects.md)
-# [App4App2Grad](https://github.com/jnstockley/App4App2Grad)
+## [App4App2Grad](https://github.com/jnstockley/App4App2Grad)
 Ruby on Rail group project made during a first semester, graduate-level CS course, CS:5820 - Software Engineering Languages and Tools. The application is a SaaS application that allows a student to submit applications to graduate school and allows students to interact with other students and faculty members through discussion and private messages faculty members. Throughout this project, we worked in an agile work environment in 3 sprints of approxamently 2 weeks in length. We create separate branches and pull requests for each of the features, and ensured they didn't break existing features through the use of BDD and TDD testing and with our CI/CD pipeline.
 
-# [BTTN (Better Twitch.tv Notifications)](https://github.com/jnstockley/BTTN)
+## [BTTN (Better Twitch.tv Notifications)](https://github.com/jnstockley/BTTN)
 This is a Java program that uses [Twitch's API](https://dev.twitch.tv/docs/api/) to determine if a channel is live. The user can add any number of channels, using the program, to a JSON config file. Whenever the program is run it will use the Twitch API to determine if the channel is live. If the status of the channel has changed from not live to live, using data stored in the JSON file, it will send the user a mobile push notification using [Alertzy](https://alertzy.app).
 
 # Skills

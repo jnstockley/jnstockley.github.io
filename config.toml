@@ -1,4 +1,4 @@
-theme = risotto
+theme = 'risotto'
 
 baseURL = 'https://jstockley.com/'
 languageCode = 'en-us'

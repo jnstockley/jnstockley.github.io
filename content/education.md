@@ -1,4 +1,4 @@
-a## [University of Iowa](https://cs.uiowa.edu/)
+## [University of Iowa](https://cs.uiowa.edu/)
 
 Grade: Junior
 

@@ -1,3 +1,5 @@
+# Experience
+
 ## [Broadcom Inc.](https://www.broadcom.com/)
 
 ### DB2 Tools Intern
@@ -9,7 +11,7 @@
 
 ### Team Lead
 
-  Apr 2022 - Present
+Apr 2022 - Present
 
 * Training new employees
 * Assisting management with scheduling and reviews
@@ -19,7 +21,7 @@
 
 ### Student Backup
 
-  Apr 2021 - Mar 2022
+Apr 2021 - Mar 2022
 
 * Answered high-tier support questions from students
 * Monitored call queues to ensure calls were getting answered
@@ -28,7 +30,7 @@
 
 ### Student Analyst
 
-  Aug 2020 - Apr 2021
+Aug 2020 - Apr 2021
 
 * Provided superior tech support for the University of Iowa through phone, email, and live chat
 * Extensive knowledge of our supported services and support articles
@@ -38,6 +40,7 @@
 ## [Cashier - Jewel-Osco](https://www.jewelosco.com/)
 
 Jun 2017 - Mar 2020
+
 I learned many valuable skills while working at Jewel-Osco that will help me in my future career. Among them, I learned how to communicate with people, work effectively in a team environment, deal with adversity and interact with people in the real world. I started as a bagger and worked my way up to a cashier.
 
 * Fostered a welcoming experience to customers by greeting and processing transactions swiftly

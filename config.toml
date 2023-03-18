@@ -1,8 +1,8 @@
-theme = 'terminal'
+theme = "terminal"
 
 baseurl = ""
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = "en-us"
+title = "Jack Stockley's Personal Site"
 
 [params]
     themeColor = "blue"
@@ -13,7 +13,7 @@ title = 'My New Hugo Site'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Jack Stockley's Personal Site"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""

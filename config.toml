@@ -1,6 +1,6 @@
 theme = "terminal"
 
-baseurl = ""
+baseurl = "https://jstockley.com"
 languageCode = "en-us"
 title = "Jack Stockley's Personal Site"
 
@@ -14,22 +14,9 @@ title = "Jack Stockley's Personal Site"
   [languages.en]
     languageName = "English"
     title = "Jack Stockley's Personal Site"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
-    minuteReadingTime = "min read"
-    words = "words"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Jack Stockley"
       logoHomeLink = "/"
 
     [languages.en.menu]

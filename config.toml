@@ -1,6 +1,6 @@
 theme = 'terminal'
 
-baseurl = "/"
+baseurl = ""
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
@@ -34,14 +34,22 @@ title = 'My New Hugo Site'
 
     [languages.en.menu]
     [[languages.en.menu.main]]
-        identifier = "experience"
-        name = "Experience"
-        url = "/experience"
-      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[languages.en.menu.main]]
         identifier = "education"
         name = "Education"
         url = "/education"
+        weight = 2
+    [[languages.en.menu.main]]
+        identifier = "experience"
+        name = "Experience"
+        url = "/experience"
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects"
+        weight = 4

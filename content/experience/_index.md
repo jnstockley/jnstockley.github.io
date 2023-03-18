@@ -1,5 +1,3 @@
-# Experience
-
 ## [Broadcom Inc.](https://www.broadcom.com/)
 
 ### DB2 Tools Intern

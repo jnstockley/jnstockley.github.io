@@ -1,28 +1,31 @@
 ## [University of Iowa](https://cs.uiowa.edu/)
+
 Grade: Junior
 
 Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
-    
+
    Courses Taken:
-   * Computer Science I: Fundamentals
-   * Computer Science II: Data Structures
-   * Discrete Structure
-   * Computer Organization
-   * Object-Oriented Software Development
-   * Cryptography Seminar
-   * Algorithms
-   * Programming Language Concepts
-   * Intro to Networks and their Applications (Spring 2022)
-   * Theory of Computation (Spring 2022)
-   * Topics in Computer Science I (Spring 2022)
-   * Probability and Statistics
-   * Calculus I
-   * Calculus II
-   * Linear Algebra
+
+* Computer Science I: Fundamentals
+* Computer Science II: Data Structures
+* Discrete Structure
+* Computer Organization
+* Object-Oriented Software Development
+* Cryptography Seminar
+* Algorithms
+* Programming Language Concepts
+* Intro to Networks and their Applications (Spring 2022)
+* Theory of Computation (Spring 2022)
+* Topics in Computer Science I (Spring 2022)
+* Probability and Statistics
+* Calculus I
+* Calculus II
+* Linear Algebra
 
 2019-2023
 
 ## [Plainfield North High School](https://pnhs.psd202.org/)
+
 High School Diploma
 
 Activities and societies: Cross Country, Winter Running Club, Track Manager, Computer Science Club
@@ -36,9 +39,10 @@ Senior Year Computer Science Project
 Enhanced earlier project by adding AngularJS UI. All technologies were self-learned.
 
 Courses Taken:
-  * Intro to Programming
-  * Intro to Java Honors
-  * AP Computer Science A
-  * AP Computer Science Principles
+
+* Intro to Programming
+* Intro to Java Honors
+* AP Computer Science A
+* AP Computer Science Principles
   
 GPA: 4.96/5.00

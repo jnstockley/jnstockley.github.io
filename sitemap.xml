@@ -1,22 +1,32 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
 	<url>
 		<loc>https://jstockley.com/</loc>
-		<lastmod>2022-04-03T21:01:09+00:00</lastmod>
+		<lastmod>2023-03-19T04:09:26+00:00</lastmod>
 		<priority>1.00</priority>
 	</url>
 	<url>
-		<loc>https://jstockley.com/experience.html</loc>
-		<lastmod>2022-04-03T21:01:09+00:00</lastmod>
+		<loc>https://jstockley.com/courses/</loc>
+		<lastmod>2023-03-19T04:09:26+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://jstockley.com/education.html</loc>
-		<lastmod>2022-04-03T21:01:09+00:00</lastmod>
+		<loc>https://jstockley.com/education/</loc>
+		<lastmod>2023-03-19T04:09:26+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
-		<loc>https://jstockley.com/projects.html</loc>
-		<lastmod>2022-04-03T21:01:09+00:00</lastmod>
+		<loc>https://jstockley.com/experience/</loc>
+		<lastmod>2023-03-19T04:09:26+00:00</lastmod>
+		<priority>0.80</priority>
+	</url>
+	<url>
+		<loc>https://jstockley.com/projects/</loc>
+		<lastmod>2023-03-19T04:09:26+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
@@ -26,42 +36,42 @@
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/overview-summary.html
+			https://jstockley.com/AddressBookCLI/overview-summary.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/overview-frame.html
+			https://jstockley.com/AddressBookCLI/overview-frame.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/allclasses-frame.html
+			https://jstockley.com/AddressBookCLI/allclasses-frame.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/overview-tree.html
+			https://jstockley.com/AddressBookCLI/overview-tree.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/deprecated-list.html
+			https://jstockley.com/AddressBookCLI/deprecated-list.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-1.html
+			https://jstockley.com/AddressBookCLI/index-files/index-1.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
@@ -73,602 +83,602 @@ https://jstockley.com/AddressBookCLI/index-files/index-1.html
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?overview-summary.html
+			https://jstockley.com/AddressBookCLI/index.html?overview-summary.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/allclasses-noframe.html
+			https://jstockley.com/AddressBookCLI/allclasses-noframe.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-summary.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-summary.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-summary.html
+			https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-summary.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-frame.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-frame.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-frame.html
+			https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-frame.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/AddressBook.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/AddressBook.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/AddressHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/AddressHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/AppTest.html
+			https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/AppTest.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/ConnectionHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/ConnectionHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/FrontendHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/FrontendHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/OccupationHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/OccupationHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/PersonHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/PersonHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/Updater.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/Updater.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?overview-tree.html
+			https://jstockley.com/AddressBookCLI/index.html?overview-tree.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-tree.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-tree.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-tree.html
+			https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-tree.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?deprecated-list.html
+			https://jstockley.com/AddressBookCLI/index.html?deprecated-list.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-2.html
+			https://jstockley.com/AddressBookCLI/index-files/index-2.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-1.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-1.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-3.html
+			https://jstockley.com/AddressBookCLI/index-files/index-3.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-4.html
+			https://jstockley.com/AddressBookCLI/index-files/index-4.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-5.html
+			https://jstockley.com/AddressBookCLI/index-files/index-5.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-6.html
+			https://jstockley.com/AddressBookCLI/index-files/index-6.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-7.html
+			https://jstockley.com/AddressBookCLI/index-files/index-7.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-8.html
+			https://jstockley.com/AddressBookCLI/index-files/index-8.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-9.html
+			https://jstockley.com/AddressBookCLI/index-files/index-9.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-10.html
+			https://jstockley.com/AddressBookCLI/index-files/index-10.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-11.html
+			https://jstockley.com/AddressBookCLI/index-files/index-11.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-12.html
+			https://jstockley.com/AddressBookCLI/index-files/index-12.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-13.html
+			https://jstockley.com/AddressBookCLI/index-files/index-13.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-14.html
+			https://jstockley.com/AddressBookCLI/index-files/index-14.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-15.html
+			https://jstockley.com/AddressBookCLI/index-files/index-15.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-16.html
+			https://jstockley.com/AddressBookCLI/index-files/index-16.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index-files/index-17.html
+			https://jstockley.com/AddressBookCLI/index-files/index-17.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?help-doc.html
+			https://jstockley.com/AddressBookCLI/index.html?help-doc.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/constant-values.html
+			https://jstockley.com/AddressBookCLI/constant-values.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-use.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/package-use.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/package-summary.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/package-summary.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-use.html
+			https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/package-use.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/package-summary.html
+			https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/package-summary.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/AddressBook.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/AddressBook.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/AddressBook.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/AddressBook.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/AddressHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/AddressHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/AddressHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/AddressHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/class-use/AppTest.html
+			https://jstockley.com/AddressBookCLI/jackstockley/addressbookcli/class-use/AppTest.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/AppTest.html
+			https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/AppTest.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/ConnectionHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/ConnectionHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/ConnectionHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/ConnectionHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/FrontendHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/FrontendHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/FrontendHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/FrontendHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/OccupationHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/OccupationHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/OccupationHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/OccupationHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/PersonHelper.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/PersonHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/PersonHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/PersonHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/Updater.html
+			https://jstockley.com/AddressBookCLI/com/github/jnstockley/addressbookcli/class-use/Updater.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/Updater.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/Updater.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/package-tree.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/package-tree.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/package-tree.html
+			https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/package-tree.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-2.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-2.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-3.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-3.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-4.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-4.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-5.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-5.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-6.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-6.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-7.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-7.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-8.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-8.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-9.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-9.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-10.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-10.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-11.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-11.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-12.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-12.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-13.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-13.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-14.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-14.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-15.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-15.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-16.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-16.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?index-files/index-17.html
+			https://jstockley.com/AddressBookCLI/index.html?index-files/index-17.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?constant-values.html
+			https://jstockley.com/AddressBookCLI/index.html?constant-values.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/package-use.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/package-use.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/package-use.html
+			https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/package-use.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/AddressBook.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/AddressBook.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/AddressHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/AddressHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/class-use/AppTest.html
+			https://jstockley.com/AddressBookCLI/index.html?jackstockley/addressbookcli/class-use/AppTest.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/ConnectionHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/ConnectionHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/FrontendHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/FrontendHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/OccupationHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/OccupationHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/PersonHelper.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/PersonHelper.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/Updater.html
+			https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressbookcli/class-use/Updater.html
 </loc>
 		<lastmod>2020-08-19T23:16:20+00:00</lastmod>
 		<priority>0.41</priority>
@@ -684,28 +694,28 @@ https://jstockley.com/AddressBookCLI/index.html?com/github/jnstockley/addressboo
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/package-summary.html
+			https://jstockley.com/BTTN/com/github/jnstockley/package-summary.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/package-use.html
+			https://jstockley.com/BTTN/com/github/jnstockley/package-use.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/package-tree.html
+			https://jstockley.com/BTTN/com/github/jnstockley/package-tree.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-1.html
+			https://jstockley.com/BTTN/index-files/index-1.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
@@ -717,203 +727,203 @@ https://jstockley.com/BTTN/index-files/index-1.html
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Auth.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Auth.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/BTTN.html
+			https://jstockley.com/BTTN/com/github/jnstockley/BTTN.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Bundle.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Bundle.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Channel.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Channel.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Failover.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Failover.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Helper.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Helper.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Logging.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Logging.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Notifications.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Notifications.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/SetupManager.html
+			https://jstockley.com/BTTN/com/github/jnstockley/SetupManager.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/Updater.html
+			https://jstockley.com/BTTN/com/github/jnstockley/Updater.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Auth.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Auth.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Channel.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Channel.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-2.html
+			https://jstockley.com/BTTN/index-files/index-2.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-3.html
+			https://jstockley.com/BTTN/index-files/index-3.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-4.html
+			https://jstockley.com/BTTN/index-files/index-4.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-5.html
+			https://jstockley.com/BTTN/index-files/index-5.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-6.html
+			https://jstockley.com/BTTN/index-files/index-6.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-7.html
+			https://jstockley.com/BTTN/index-files/index-7.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-8.html
+			https://jstockley.com/BTTN/index-files/index-8.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-9.html
+			https://jstockley.com/BTTN/index-files/index-9.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-10.html
+			https://jstockley.com/BTTN/index-files/index-10.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-11.html
+			https://jstockley.com/BTTN/index-files/index-11.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-12.html
+			https://jstockley.com/BTTN/index-files/index-12.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-13.html
+			https://jstockley.com/BTTN/index-files/index-13.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-14.html
+			https://jstockley.com/BTTN/index-files/index-14.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-15.html
+			https://jstockley.com/BTTN/index-files/index-15.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-16.html
+			https://jstockley.com/BTTN/index-files/index-16.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-17.html
+			https://jstockley.com/BTTN/index-files/index-17.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/index-files/index-18.html
+			https://jstockley.com/BTTN/index-files/index-18.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
@@ -945,56 +955,56 @@ https://jstockley.com/BTTN/index-files/index-18.html
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/BTTN.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/BTTN.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Bundle.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Bundle.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Failover.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Failover.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Helper.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Helper.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Logging.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Logging.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Notifications.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Notifications.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/SetupManager.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/SetupManager.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/BTTN/com/github/jnstockley/class-use/Updater.html
+			https://jstockley.com/BTTN/com/github/jnstockley/class-use/Updater.html
 </loc>
 		<lastmod>2022-01-13T00:31:16+00:00</lastmod>
 		<priority>0.51</priority>
@@ -1006,140 +1016,140 @@ https://jstockley.com/BTTN/com/github/jnstockley/class-use/Updater.html
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/VaccineChecker.html
+			https://jstockley.com/Vaccine-Checker/VaccineChecker.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/package-summary.html
+			https://jstockley.com/Vaccine-Checker/package-summary.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/class-use/VaccineChecker.html
+			https://jstockley.com/Vaccine-Checker/class-use/VaccineChecker.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/package-tree.html
+			https://jstockley.com/Vaccine-Checker/package-tree.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/deprecated-list.html
+			https://jstockley.com/Vaccine-Checker/deprecated-list.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-1.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-1.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/help-doc.html
+			https://jstockley.com/Vaccine-Checker/help-doc.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/package-use.html
+			https://jstockley.com/Vaccine-Checker/package-use.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/overview-tree.html
+			https://jstockley.com/Vaccine-Checker/overview-tree.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-2.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-2.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-3.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-3.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-4.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-4.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-5.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-5.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-6.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-6.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-7.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-7.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-8.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-8.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/index-files/index-9.html
+			https://jstockley.com/Vaccine-Checker/index-files/index-9.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/allclasses-index.html
+			https://jstockley.com/Vaccine-Checker/allclasses-index.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/allpackages-index.html
+			https://jstockley.com/Vaccine-Checker/allpackages-index.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/Vaccine-Checker/constant-values.html
+			https://jstockley.com/Vaccine-Checker/constant-values.html
 </loc>
 		<lastmod>2021-04-10T03:10:39+00:00</lastmod>
 		<priority>0.51</priority>
@@ -1151,35 +1161,35 @@ https://jstockley.com/Vaccine-Checker/constant-values.html
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/package-summary.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/package-summary.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/package-use.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/package-use.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/package-tree.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/package-tree.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/deprecated-list.html
+			https://jstockley.com/AddressBook/deprecated-list.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-1.html
+			https://jstockley.com/AddressBook/index-files/index-1.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
@@ -1191,182 +1201,182 @@ https://jstockley.com/AddressBook/index-files/index-1.html
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Address.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Address.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/BackendHelper.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/BackendHelper.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Encryption.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Encryption.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Occupation.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Occupation.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Person.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/Person.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Address.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Address.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Occupation.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Occupation.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Person.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Person.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-2.html
+			https://jstockley.com/AddressBook/index-files/index-2.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-3.html
+			https://jstockley.com/AddressBook/index-files/index-3.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-4.html
+			https://jstockley.com/AddressBook/index-files/index-4.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-5.html
+			https://jstockley.com/AddressBook/index-files/index-5.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-6.html
+			https://jstockley.com/AddressBook/index-files/index-6.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-7.html
+			https://jstockley.com/AddressBook/index-files/index-7.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-8.html
+			https://jstockley.com/AddressBook/index-files/index-8.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-9.html
+			https://jstockley.com/AddressBook/index-files/index-9.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-10.html
+			https://jstockley.com/AddressBook/index-files/index-10.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-11.html
+			https://jstockley.com/AddressBook/index-files/index-11.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-12.html
+			https://jstockley.com/AddressBook/index-files/index-12.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/index-files/index-13.html
+			https://jstockley.com/AddressBook/index-files/index-13.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/allclasses-index.html
+			https://jstockley.com/AddressBook/allclasses-index.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/allpackages-index.html
+			https://jstockley.com/AddressBook/allpackages-index.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/overview-tree.html
+			https://jstockley.com/AddressBook/overview-tree.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/constant-values.html
+			https://jstockley.com/AddressBook/constant-values.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/BackendHelper.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/BackendHelper.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Encryption.html
+			https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/Encryption.html
 </loc>
 		<lastmod>2020-12-26T19:03:12+00:00</lastmod>
 		<priority>0.51</priority>
@@ -1378,259 +1388,259 @@ https://jstockley.com/AddressBook/com/github/jnstockley/addressbook/class-use/En
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/package-summary.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/package-summary.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.80</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/package-use.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/package-use.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/package-tree.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/package-tree.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/deprecated-list.html
+			https://jstockley.com/AddressBookREST/deprecated-list.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-1.html
+			https://jstockley.com/AddressBookREST/index-files/index-1.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/help-doc.html
+			https://jstockley.com/AddressBookREST/help-doc.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/AddressBookRestApplication.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/AddressBookRestApplication.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/AddressController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/AddressController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/OccupationController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/OccupationController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/PersonController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/PersonController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/RESTController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/RESTController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/ServletInitializer.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/ServletInitializer.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/Updater.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/Updater.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/AddressException.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/AddressException.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.64</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-2.html
+			https://jstockley.com/AddressBookREST/index-files/index-2.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-3.html
+			https://jstockley.com/AddressBookREST/index-files/index-3.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-4.html
+			https://jstockley.com/AddressBookREST/index-files/index-4.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-5.html
+			https://jstockley.com/AddressBookREST/index-files/index-5.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-6.html
+			https://jstockley.com/AddressBookREST/index-files/index-6.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-7.html
+			https://jstockley.com/AddressBookREST/index-files/index-7.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-8.html
+			https://jstockley.com/AddressBookREST/index-files/index-8.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-9.html
+			https://jstockley.com/AddressBookREST/index-files/index-9.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-10.html
+			https://jstockley.com/AddressBookREST/index-files/index-10.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/index-files/index-11.html
+			https://jstockley.com/AddressBookREST/index-files/index-11.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/allclasses-index.html
+			https://jstockley.com/AddressBookREST/allclasses-index.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/allpackages-index.html
+			https://jstockley.com/AddressBookREST/allpackages-index.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/overview-tree.html
+			https://jstockley.com/AddressBookREST/overview-tree.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/constant-values.html
+			https://jstockley.com/AddressBookREST/constant-values.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/AddressBookRestApplication.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/AddressBookRestApplication.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/AddressController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/AddressController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/OccupationController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/OccupationController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/PersonController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/PersonController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/RESTController.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/RESTController.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/ServletInitializer.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/ServletInitializer.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/Updater.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/Updater.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/AddressException.html
+			https://jstockley.com/AddressBookREST/com/github/jnstockley/addressbookrest/class-use/AddressException.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>
 	</url>
 	<url>
 		<loc>
-https://jstockley.com/AddressBookREST/serialized-form.html
+			https://jstockley.com/AddressBookREST/serialized-form.html
 </loc>
 		<lastmod>2020-12-26T19:02:35+00:00</lastmod>
 		<priority>0.51</priority>

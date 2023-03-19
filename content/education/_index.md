@@ -28,6 +28,8 @@ Studying towards a Bachelor of Science in Computer Science with a specialization
 * Software Engineering Project (Spring 2023)
 * Operating Systems (Spring 2023)
 
+[View More](../courses)
+
 2019-2023
 
 ## [Plainfield North High School](https://pnhs.psd202.org/)
@@ -48,5 +50,7 @@ Courses Taken:
 * Intro to Java Honors
 * AP Computer Science A
 * AP Computer Science Principles
+
+[View More](../courses)
 
 GPA: 4.96/5.00

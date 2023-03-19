@@ -18,7 +18,7 @@ Grade: Senior
 
 Studying towards a Bachelor of Science in Computer Science.
 
-Courses Taken:
+Relevant Courses Taken:
 
 * Computer Science I: Fundamentals
 * Engineer Math I Single Variable Calculus
@@ -39,6 +39,8 @@ Courses Taken:
 * Database Systems
 * Software Engineering Project (Spring 2023)
 * Operating Systems (Spring 2023)
+
+[View More](courses)
 
 2019-2023
 

@@ -26,17 +26,22 @@ title = "Jack Stockley's Personal Site"
         url = "/"
         weight = 1
     [[languages.en.menu.main]]
+        identifier = "courses"
+        name = "Courses"
+        url = "/courses"
+        weight = 2    
+    [[languages.en.menu.main]]
         identifier = "education"
         name = "Education"
         url = "/education"
-        weight = 2
+        weight = 3
     [[languages.en.menu.main]]
         identifier = "experience"
         name = "Experience"
         url = "/experience"
-        weight = 3
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects"
-        weight = 4
+        weight = 5

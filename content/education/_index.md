@@ -2,31 +2,24 @@
 
 ## [University of Iowa](https://cs.uiowa.edu/)
 
-Grade: Senior
-
-Studying towards a Bachelor of Science in Computer Science with a specialization in Data Security.
-
-   Courses Taken:
+Courses Taken:
 
 * Computer Science I: Fundamentals
-* Engineer Math I Single Variable Calculus
-* Discrete Structures
-* Calculus II
 * Computer Science II: Data Structures
-* Introduction to Linear Algebra
-* Object-Oriented Software Development
+* Discrete Structure
 * Computer Organization
-* Probability & Stats for Engr & Phys Sci
+* Object-Oriented Software Development
+* Cryptography Seminar
 * Algorithms
 * Programming Language Concepts
-* Topics in Computer Science I - Cloud Application Programming
-* Intro to Networks and Their Applications
+* Intro to Networks and their Applications
 * Theory of Computation
+* Topics in Computer Science I: Cloud Application Programming
 * Fundamentals of Software Engineering
 * Software Engineering Languages and Tools
 * Database Systems
-* Software Engineering Project (Spring 2023)
-* Operating Systems (Spring 2023)
+* Software Engineering Project
+* Web Mining
 
 [View More](../courses)
 

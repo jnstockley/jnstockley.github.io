@@ -1,17 +1,28 @@
 # Experience
 
+## [University of Iowa - AIS](https://its.uiowa.edu/about/ais)
+
+### Application Programmer
+
+Jun 2023 - Present
+
+* Ensuring our learning management system is operational
+* Created a new analytical viewing tool for faculty members
+* Collaborating with colleagues to create exciting updates to our products
+
 ## [Broadcom Inc.](https://www.broadcom.com/)
 
 ### DB2 Tools Intern
 
   May 2022 - Aug 2022
+
   Converted a Java framework to Python which runs tests on Mainframe systems to test DB2 Tools products. Tests are run using Jenkins continuous integration software. Worked in a team setting in an Agile environment.
 
 ## [University of Iowa ITS Help Desk](https://its.uiowa.edu/)
 
 ### Team Lead
 
-Apr 2022 - Present
+Apr 2022 - May 2023
 
 * Training new employees
 * Assisting management with scheduling and reviews

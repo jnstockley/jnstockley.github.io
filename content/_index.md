@@ -1,44 +1,39 @@
 # [Jack Stockley](https://www.linkedin.com/in/jack-stockley/)
 
-Hello, I am Jack Stockley! I am an Undergraduate Student in the College of Liberal Arts and Sciences at the University of Iowa. I am currently studying towards a Bachelor of Science in Computer Science. I am a young, eager, and motivated student ready to tackle any challenges that will come my way!
+Hello, I am Jack Stockley! I am an Application Programmer on the AIS team at the University of Iowa. I work towards creating new and exciting features for our learning management system, ICON, and ensure reliability for student and faculty members. I am a young, eager, and motivated software engineer ready to tackle any challenges that will come my way!
 
 ## [Experience](experience)
 
-### [DB2Tools Intern - Broadcom](https://www.broadcom.com/)
+### [Application Programmer - University of Iowa](https://its.uiowa.edu/about/ais)
 
-Converted a Java framework to Python which runs tests on Mainframe systems to test DB2 Tools products. Tests are run using Jenkins continuous integration software. Worked in a team setting in an Agile environment.
+* Ensuring our learning management system is operational
+* Created a new analytical viewing tool for faculty members
+* Collaborating with colleagues to create exciting updates to our products
 
-May 2022 - Aug 2022
+Jun 2023 - Present
 
 ## [Education](education)
 
 ### [University of Iowa](https://cs.uiowa.edu/)
 
-Grade: Senior
-
-Studying towards a Bachelor of Science in Computer Science.
-
-Relevant Courses Taken:
+Courses Taken:
 
 * Computer Science I: Fundamentals
-* Engineer Math I Single Variable Calculus
-* Discrete Structures
-* Calculus II
 * Computer Science II: Data Structures
-* Introduction to Linear Algebra
-* Object-Oriented Software Development
+* Discrete Structure
 * Computer Organization
-* Probability & Stats for Engr & Phys Sci
+* Object-Oriented Software Development
+* Cryptography Seminar
 * Algorithms
 * Programming Language Concepts
-* Topics in Computer Science I - Cloud Application Programming
-* Intro to Networks and Their Applications
+* Intro to Networks and their Applications
 * Theory of Computation
+* Topics in Computer Science I: Cloud Application Programming
 * Fundamentals of Software Engineering
 * Software Engineering Languages and Tools
 * Database Systems
-* Software Engineering Project (Spring 2023)
-* Operating Systems (Spring 2023)
+* Software Engineering Project
+* Web Mining
 
 [View More](courses)
 
@@ -58,6 +53,10 @@ This is a Java program that uses [Twitch's API](https://dev.twitch.tv/docs/api/)
 
 * Agile Software Development
 * Python
+* PostgreSQL
+* Google Big Query
+* SpringBoot
+* Vue.js
 * Java
 * SQL
 * Databases

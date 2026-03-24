@@ -1,4 +1,4 @@
-baseURL = 'https://jstockley.com/'
+baseURL = 'https://jnstockley.github.io/'
 locale = 'en-us'
 title = 'Jack Stockley'
 theme = "nojs"
